@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[fau:home|Door43 (fau)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-fau|d43-fau repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-fau/archive/master.zip|d43-fau.zip]]
+
+**Recent Changes**
+{{changes>ns = fau}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/fau|Ethnologue data]]
+
